@@ -546,7 +546,7 @@ sensitive-info.txt
 Boşalma başqa bir depoya sahib olma prosesidir. Müəyyən bir deponun çəngəl düyməsini kliklədikdən sonra həmin repozitoriyanın repozitorlar siyahınıza daxil olduğunu görəcəksiniz. Bu depoda çəngəl düyməsini klikləməklə cəhd edə bilərsiniz.
 
 Bəzi məzmunu olan hər bir deponun sağ üst küncündə aktiv çəngəl düyməsi var.
-![Çəngəl](./images/fork.Png)
+![Çəngəl](./images/fork.png)
 
 Forkingdən sonra biz deponu klonlaya və layihənin klonlanmış versiyası üzərində işləyə bilərik. Orijinalı dəyişdirdikdən sonra deponun çəngəl versiyasına keçə bilərik. Bundan əlavə, layihəyə töhfə vermək üçün orijinal repoya çəkmə sorğusu göndərə bilərik.
 
