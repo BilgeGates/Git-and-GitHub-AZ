@@ -626,7 +626,7 @@ GitHub hesab ayarlarınızda nəyin mövcud olduğunu yoxlayın
 
 ## GitHub Səhifəsi
 
-Hər bir GitHub deposu sizə layihənizin URL-sini yaratmağa imkan verir. Məsələn, bu [URL](https://bilgegates.github.io/Git-and-GitHub-AZ/) bu layihənin GitHub səhifəsindən yaradılıb. GitHub səhifəsinin URL-ni yaratmaq üçün layihənin daxilində yuxarı səviyyədə index.html olmalıdır.
+Hər bir GitHub deposu sizə layihənizin URL-sini yaratmağa imkan verir. GitHub səhifəsinin URL-ni yaratmaq üçün layihənin daxilində yuxarı səviyyədə index.html olmalıdır.
 
 Əvvəlcə bu deponun parametrlərinə keçin və sonra üzərinə klikləyin. GitHub səhifələri bölməsini əldə edənə qədər aşağı gedin, sonra master seçin
 ![](./images/github-page.png)
