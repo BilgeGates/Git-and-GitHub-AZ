@@ -55,10 +55,8 @@
   - [Git fırıldaqçı hesabatı](#Git-Fırıldaqçı-Hesabatı)
   - [Git Repozitoriyasının İstifadəçi İnterfeysi Xüsusiyyətləri](#Git-Repozitoriyasının-İstifadəçi-İnterfeysi-Xüsusiyyətləri)
   - [GitHub Səhifəsi](#GitHub-Səhifəsi)
-  - [GitHubda Sənədləşmə](#GitHubda-Sənədləşmə)
   - [GitHub Sənədlərini İşarələməmək](#GitHub-Sənədlərini-İşarələmək)
   - [GitHub Wiki](#GitHub-Wiki)
-  - [GitHubda Əməkdaşlıq](#GitHubda-Əməkdaşlıq)
 
 ## Əsas Komanda Sətirləri
 
@@ -639,8 +637,6 @@ Yadda saxladıqdan sonra GitHub səhifəsinin URL-i avtomatik olaraq yaradılaca
 
 ![](./images/github-page-link.png)
 
-## GitHubda Sənədləşdirmə
-
 ## GitHub Sənədlərini İşarətləmək
 
 Markdown faylları sənədləri və ya hər hansı bir şeyi yazmaq üçün istifadə edilə bilər. Markdown fayl uzantısı .md-dir
@@ -652,11 +648,3 @@ Markdown haqqında öyrənmək üçün bu [link](https://guides.github.com/featu
 
 Hər bir GitHub ictimai deposunun bir wiki səhifəsi var. Viki səhifəsi sizə yazmağa və ya sənədləşdirməyə imkan verir.
 ![](./images/wiki.png)
-
-## GitHubda Əməkdaşlıq
-
-GitHub açıq mənbəli əməkdaşlığı çox asanlaşdırdı. Siz anbarı çəngəlləməklə istənilən açıq mənbəli GitHub repozitoriyası ilə əməkdaşlıq edə bilərsiniz. Bu bölmədə gəlin açıq mənbə layihəsində necə əməkdaşlıq edəcəyimizi öyrənək:
-
-1. [Git-and-Github-AZ](https://github.com/BilgeGates/Git-and-Github-AZ) anbarını ilk çəngəllə bağlayın
-2. Forkingdən sonra bu deponu masaüstünüzdə klonlayın
-3. Təhsil Resursları kateqoriyalarına sevimli təhsil bağlantılarınızı əlavə edin. Aşağıdakı kateqoriyaya ən yaxşı təhsil resurslarının linklərini əlavə etməklə necə əməkdaşlıq edəcəyinizi öyrənə bilərsiniz. Əgər kateqoriya mövcud deyilsə, siz yeni kateqoriya yaradırsınız.
