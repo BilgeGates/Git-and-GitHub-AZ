@@ -11,7 +11,8 @@
 
 </div>
 
-### _*Tərcünəçi QeydiI*_: _*10 Days Of Git and Github*_ çağırışını yaratdığı üçün <a href="https://github.com/Asabeneh">Asabeneh Yetahyeh</a>'ə təşəkkür edirik!
+### _*Tərcüməçi Qeydi*_: _*10 Days Of Git and Github*_ çağırışını yaratdığı üçün <a href="https://github.com/Asabeneh">Asabeneh Yetahyeh</a>'ə təşəkkür edirik!
+<br>
 
 - [Git və GitHub Öyrənmək](#Git-və-GitHub-Öyrənmək)
   - [Əsas Komanda Sətirləri](#Əsas-Komanda-Sətirləri)
