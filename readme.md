@@ -63,7 +63,7 @@
 
 Tərtibatçılar əsas Unix əmrlərini bilməlidirlər. Lazım olan bəzi tapşırıqları git bash, mac terminal və ya pəncərə əmr sorğusundan istifadə etməklə yerinə yetirmək lazımdır. Bu dərslikdə biz Git Bashdan istifadə edərək, bir tərtibatçı kimi sizə lazım ola biləcək Unix əmrinin əsaslarını öyrənəcəyik. Bu tam siyahı deyil, lakin gündəlik istifadə üçün kifayətdir. Git Bashdan istifadə etmək üçün əvvəlcə [git](https://git-scm.com/) quraşdırmalısınız. Quraşdırmanın sonuna qədər növbəti düyməni sıxmaqla quraşdıra bilərsiniz.
 
-Dərsliyi izləmək istəyirsinizsə, bu [linkə klikləyin.] (https://www.youtube.com/watch?v=9cCApTLb_Io&list=PLbvhRHYrmshSCAHZbibqh_px_LxnU54dk)
+Dərsliyi izləmək istəyirsinizsə, bu [linkə klikləyin.](https://www.youtube.com/watch?v=9cCApTLb_Io&list=PLbvhRHYrmshSCAHZbibqh_px_LxnU54dk)
 
 ### Cari İş Kataloqu
 
